@@ -2,40 +2,29 @@
 django-ignorebots
 =================
 
+.. image:: https://img.shields.io/pypi/v/django-ignorebots.svg
+     :target: https://pypi.python.org/pypi/django-ignorebots
 
-.. image:: https://img.shields.io/pypi/v/django_ignorebots.svg
-        :target: https://pypi.python.org/pypi/django_ignorebots
-
-.. image:: https://img.shields.io/travis/acordiner/django_ignorebots.svg
-        :target: https://travis-ci.org/acordiner/django_ignorebots
+.. image:: https://img.shields.io/travis/acordiner/django-ignorebots.svg
+     :target: https://travis-ci.org/acordiner/django-ignorebots
 
 .. image:: https://readthedocs.org/projects/django-ignorebots/badge/?version=latest
-        :target: https://django-ignorebots.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
+     :target: https://django-ignorebots.readthedocs.io/en/latest/?badge=latest
+     :alt: Documentation Status
 
-
-.. image:: https://pyup.io/repos/github/acordiner/django_ignorebots/shield.svg
-     :target: https://pyup.io/repos/github/acordiner/django_ignorebots/
+.. image:: https://pyup.io/repos/github/acordiner/django-ignorebots/shield.svg
+     :target: https://pyup.io/repos/github/acordiner/django-ignorebots/
      :alt: Updates
 
+The Django-provided ``BrokenLinkEmailsMiddleware`` is a handy way to be notified
+whenever a user hits a 404 error on your website. The problem is, once you
+enable it, you tend to get spammed by notifications due to bots scanning you
+website repeatedly hitting 404 errors. This can include search engine crawlers,
+exploit scanners, and even browsers.
 
+This simple Django plug-in helps you to filter these out so that you are only
+notified when a real user hits a 404 error.
 
 Ignore all the bots!
 
-
-* Free software: GNU General Public License v3
-* Documentation: https://django-ignorebots.readthedocs.io.
-
-
-Features
---------
-
-* TODO
-
-Credits
--------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+*Documentation coming soon.*
