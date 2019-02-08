@@ -12,5 +12,5 @@ deploy:
     secure: Oi2/o1Jfs+wKuPz+JQFSG+zrtfBavMipd701gz4IWteCmyp/wqqSrckMcZQk9csPYUhvsW9/H2YxI/aTldbDjTbyFmDbJo5nqNOvCIx88pjrkRqxbdYid+vRiuHqL/bzW1HAY1H6eHWgH5/tXpOF+z+8OriP9Q+nmeti1HdRGWwiN7sZKU5W1nYzftrr4O6uW0hA4A8xdWlILHKZt2wrLuQYdFpgfaLWRRcT0FlOdOZugKPjaMVlcBBGfxVWuIO9GZgfX8H5Py2J6l6CK5fRpTw1wrZfQBVt4VURLqsftPNseLmktokpL4okgADwYzkCfEN6/mJucxfCeLIUGuT8VWO7xwEZkh5+CfTatIMcUibKiPuWENUSdz8HZCBnAqDOC8lcJsDdGRiBrpTB48hkuQEYNTNFp2fUSoIT2iZf1hVGPoAQSj0DDTAVYnrI8oTLeamheJ6n/mEFbm1/+wb3GOjBAAe5PFLtD/4u+r1AWBH5eWYWs77gFU3ZaDQ8bejIwhgC4r4Et9wmy4xeL6Z5+Bkj+6tnW6+2zeI0XvQ48QvNEYUmndN7AFJRRL5PUeNWUQEfVg+ccnywFCGjeSEh1qMU5+p9NgM7rLsFtLOxyKXUpJd5ACjnRtaXhfar1V8QgrB0tc6GPzrJJAo8xJ4Qpum6DOQx2zKEUzYOW14Ohcg=
   on:
     tags: true
-    repo: acordiner/django_ignorebots
+    repo: acordiner/django-ignorebots
     python: 3.6
