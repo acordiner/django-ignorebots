@@ -8,10 +8,6 @@ django-ignorebots
 .. image:: https://img.shields.io/travis/acordiner/django-ignorebots.svg
      :target: https://travis-ci.org/acordiner/django-ignorebots
 
-.. image:: https://readthedocs.org/projects/django-ignorebots/badge/?version=latest
-     :target: https://django-ignorebots.readthedocs.io/en/latest/?badge=latest
-     :alt: Documentation Status
-
 .. image:: https://pyup.io/repos/github/acordiner/django-ignorebots/shield.svg
      :target: https://pyup.io/repos/github/acordiner/django-ignorebots/
      :alt: Updates
