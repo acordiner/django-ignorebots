@@ -15,3 +15,5 @@ deploy:
     tags: true
     repo: acordiner/django-ignorebots
     python: 3.6
+  skip_existing: true
+

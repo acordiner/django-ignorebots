@@ -6,7 +6,7 @@ DATABASES = {
     'NAME': ':memory:',
     }
 }
-MANAGERS=('foobar@example.com',)
+MANAGERS=[('Foo Bar', 'foobar@example.com')]
 ALLOWED_HOSTS = ['testserver']
 
 DEBUG=False
